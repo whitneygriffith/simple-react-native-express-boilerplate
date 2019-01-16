@@ -11,7 +11,7 @@
 
 ### To Run
 
-```git clone ```
+```git clone https://github.com/whitneygriffith/mindspace```
 
 ```cd mindspace```
 
