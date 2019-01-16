@@ -11,9 +11,9 @@
 
 ### To Run
 
-```git clone https://github.com/whitneygriffith/Simple-React-Express-App```
+```git clone ```
 
-```cd Simple-React-Express-App```
+```cd mindspace```
 
 #### Start Backend
 
