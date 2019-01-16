@@ -15,6 +15,8 @@
 
 ```cd mindspace```
 
+```npm i -g create-react-native-app```
+
 #### Start Backend
 
 ```npm install```
