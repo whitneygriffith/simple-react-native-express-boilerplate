@@ -19,7 +19,7 @@
 
 ```npm install```
 
-```npm install -g nodemon``` this will automatically reload your server you save changes to the files
+```npm install -g nodemon``` so nodemon  to  b e recognized in your PATH command
 
 ```nodemon``` this will start the backend server
 
