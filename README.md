@@ -19,7 +19,9 @@
 
 ```npm install```
 
-```npm start``` this will start the backend server
+```npm install-g nodemon``` this will automatically reload your server you save changes to the files
+
+```nodemon``` this will start the backend server
 
 #### Start Frontend
 
